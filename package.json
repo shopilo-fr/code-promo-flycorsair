@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-flycorsair",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Corsair depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-corsair",
+    "bon-de-reduction-corsair",
+    "coupon-corsair",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/flycorsair.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-flycorsair.git"
+  }
+}
